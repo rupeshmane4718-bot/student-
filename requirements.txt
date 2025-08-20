@@ -1,0 +1,8 @@
+streamlit
+firebase-admin
+reportlab
+qrcode[pil]
+opencv-python
+pyzbar
+numpy
+Pillow
