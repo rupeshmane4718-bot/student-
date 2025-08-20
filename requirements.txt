@@ -2,6 +2,6 @@ streamlit
 firebase-admin
 reportlab
 qrcode[pil]
-pyzbar
+pillow
 numpy
-Pillow
+qreader
